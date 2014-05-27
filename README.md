@@ -3,7 +3,7 @@
 
 ## Description
 
-Configures Loadbalancer statistics daemon via Opscode Chef
+Configures [Loadbalancer statistics daemon](https://github.com/szelcsanyi/lbstats) via Opscode Chef
 
 ## Supported Platforms
 
