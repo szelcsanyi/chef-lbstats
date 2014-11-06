@@ -32,3 +32,6 @@ Include the **monitor** or the **collector** recipe in the run list of the desir
 
 * Freely distributable and licensed under the [MIT license](http://szelcsanyi.mit-license.org/2014/license.html).
 * Copyright (c) 2014 Gabor Szelcsanyi
+
+[![image](https://ga-beacon.appspot.com/UA-56493884-1/chef-lbstats/README.md)](https://github.com/szelcsanyi/chef-lbstats)
+
